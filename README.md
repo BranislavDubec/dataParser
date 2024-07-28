@@ -11,7 +11,7 @@ Simple data parser project in Django.
     ```sh
     git clone https://github.com/BranislavDubec/dataParser.git
 
-    cd whysproject/
+    cd dataParser/
     ```
 2. (*optional*) **Create virtual environment**:
     
